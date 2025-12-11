@@ -7,7 +7,7 @@ Chisel工程模板
 
 **Chisel Project Template**  
 **=======================**  
-This is a Chisel 6.7.0 version project template that can generate VCD waveform files
-The generated VCD waveform files are stored in the ./build/workdir-default folder
-Template reference: https://github.com/chipsalliance/chisel-template
-Waveform-generating simulator reference: https://github.com/edwardcwang/decoupled-serializer/tree/master
+This is a Chisel 6.7.0 version project template that can generate VCD waveform files  
+The generated VCD waveform files are stored in the ./build/workdir-default folder  
+Template reference: https://github.com/chipsalliance/chisel-template  
+Waveform-generating simulator reference: https://github.com/edwardcwang/decoupled-serializer/tree/master  
